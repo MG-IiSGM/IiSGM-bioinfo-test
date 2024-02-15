@@ -14,19 +14,6 @@ The input files are in VCF 4.2 format, obtained with [GATK](https://gatk.broadin
 ## Submission
 
 - You can send the assignment directly to sergio.buenestado@gmail.com in whichever comprised format suits you
-- Or you can create a pull request if you are familiar with github:
-
-  - Fork this repo
-  - Clone this repo
-  - Upon completion, run the following commands:
-
-    ```
-    git add .
-    git commit -m "done"
-    git push origin master
-    ```
-
-  - Create Pull Request
 
 ### Iteration 0 | Download repository
 
