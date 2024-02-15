@@ -13,7 +13,7 @@ The input files are in VCF 4.2 format, obtained with [GATK](https://gatk.broadin
 
 ## Submission
 
-- You can send the assignment directly to sergio.buenestado@gmail.com & rpalcab@gmail.com in whichever comprised format suits you
+- You can send the assignment directly to sergio.buenestado@gmail.com in whichever comprised format suits you
 - Or you can create a pull request if you are familiar with github:
 
   - Fork this repo
